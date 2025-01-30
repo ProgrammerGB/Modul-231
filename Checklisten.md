@@ -9,8 +9,8 @@
    - Zahlungs- und Adressdaten löschen und Funktionen deaktivieren.
 
 3. **Datenschutz und Sicherheit**
-   - Browserdaten regelmäßig löschen (unter „Erweitert“ alle Einträge auswählen und „Gesamte Zeit“ einstellen).
-   - Drittanbieter-Cookies blockieren und Websitedaten beim Schließen löschen.
+   - Browserdaten regelmässig löschen (unter „Erweitert“ alle Einträge auswählen und „Gesamte Zeit“ einstellen).
+   - Drittanbieter-Cookies blockieren und Websitedaten beim Schliessen löschen.
    - „Do not Track“-Anforderung aktivieren.
    - Vorabladen von Websites ausschalten.
 
@@ -29,7 +29,7 @@
 
 7. **Mobile Geräte (Smartphones/Tablets)**
    - Google-Konten löschen und „Google-Dienste“ ausschalten.
-   - Regelmäßig Browserdaten löschen und sichere Verbindungen aktivieren.
+   - Regelmässig Browserdaten löschen und sichere Verbindungen aktivieren.
    - Bestimmte Funktionen wie „Zahlungsmethoden“ deaktivieren.
 
 ---
@@ -52,10 +52,10 @@
    - **Erfüllt:** Die vollständige Verschlüsselung meines Geräts ist aktiviert, um die Daten auch im Falle eines Verlusts zu schützen.
 
 - 06 **Daten löschen bei Verlust**
-   - **Erfüllt:** Ich habe die Funktion für das Entfernen von Daten aus der Ferne eingerichtet und weiß, wie ich das Gerät im Falle eines Verlusts sofort der IT-Abteilung melden kann.
+   - **Erfüllt:** Ich habe die Funktion für das Entfernen von Daten aus der Ferne eingerichtet und weiss, wie ich das Gerät im Falle eines Verlusts sofort der IT-Abteilung melden kann.
 
 - 07 **Datensicherung**
-   - **Erfüllt:** Ich führe regelmäßige Backups meiner Daten durch, wie es die Unternehmensrichtlinien vorschreiben.
+   - **Erfüllt:** Ich führe regelmässige Backups meiner Daten durch, wie es die Unternehmensrichtlinien vorschreiben.
 
 - 08 **Öffentliche WLANs meiden**
    - **Erfüllt:** Ich vermeide die Nutzung öffentlicher WLAN-Netzwerke oder schütze mich durch eine VPN-Verbindung, wenn ich darauf angewiesen bin.
@@ -65,5 +65,3 @@
 
 - 10 **Software aus vertrauenswürdigen Quellen**
    - **Erfüllt:** Ich lade nur Apps aus dem Google Play Store herunter und prüfe die Bewertungen und Berechtigungen jeder App, bevor ich sie installiere.
-
-
