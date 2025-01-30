@@ -36,35 +36,34 @@
 
 # Thema 2: Sicherheit bei der Nutzung von BYOD (Bring Your Own Device)
 
-1. **Befolgen der Arbeitgeberregeln**
-   - Informiere dich über die Regeln und Sicherheitsrichtlinien für die Nutzung von eigenen Geräten im Unternehmen.
+- 01 **Befolgen der Arbeitgeberregeln**
+   - **Erfüllt:** Ich habe mich über die Sicherheitsrichtlinien des Unternehmens informiert, um sicherzustellen, dass ich alle Vorschriften für die Nutzung meines eigenen Geräts im Arbeitsumfeld einhalte.
 
-2. **Sichere Authentifizierung**
-   - Geräte mit starken Passwörtern, Passphrasen oder biometrischer Authentifizierung sichern.
-   - Ein Passwort-Manager zur Verwaltung verwenden.
+- 02 **Sichere Authentifizierung**
+   - **Erfüllt:** Ich habe mein Gerät mit einer starken Passphrase gesichert und verwende einen Passwort-Manager, um alle Zugangsdaten sicher zu verwalten.
 
-3. **Gerätesperre bei Abwesenheit**
-   - Gerät immer sperren, wenn es nicht in Gebrauch ist.
-   - Automatische Sperre nach einer festgelegten Inaktivitätszeit aktivieren.
+- 03 **Gerätesperre bei Abwesenheit**
+   - **Erfüllt:** Mein Gerät wird automatisch nach 5 Minuten Inaktivität gesperrt, um unbefugten Zugriff zu verhindern.
 
-4. **Software-Updates**
-   - Betriebssysteme und Anwendungen regelmäßig aktualisieren, um Sicherheitslücken zu schließen.
+- 04 **Software-Updates**
+   - **Erfüllt:** Ich habe automatische Updates für mein Betriebssystem und alle relevanten Anwendungen aktiviert, um sicherzustellen, dass mein Gerät immer vor bekannten Sicherheitslücken geschützt ist.
 
-5. **Verschlüsselung**
-   - Geräteverschlüsselung aktivieren, um Daten bei Verlust oder Diebstahl zu schützen.
+- 05 **Verschlüsselung**
+   - **Erfüllt:** Die vollständige Verschlüsselung meines Geräts ist aktiviert, um die Daten auch im Falle eines Verlusts zu schützen.
 
-6. **Daten löschen bei Verlust**
-   - Gerät bei Verlust sofort der IT-Abteilung melden und aus der Ferne löschen lassen.
+- 06 **Daten löschen bei Verlust**
+   - **Erfüllt:** Ich habe die Funktion für das Entfernen von Daten aus der Ferne eingerichtet und weiß, wie ich das Gerät im Falle eines Verlusts sofort der IT-Abteilung melden kann.
 
-7. **Datensicherung**
-   - Regelmäßige Datensicherungen nach den Unternehmensrichtlinien durchführen.
+- 07 **Datensicherung**
+   - **Erfüllt:** Ich führe regelmäßige Backups meiner Daten durch, wie es die Unternehmensrichtlinien vorschreiben.
 
-8. **Öffentliche WLANs meiden**
-   - Öffentliche WLAN-Netzwerke meiden oder mit einer VPN-Verbindung nutzen.
+- 08 **Öffentliche WLANs meiden**
+   - **Erfüllt:** Ich vermeide die Nutzung öffentlicher WLAN-Netzwerke oder schütze mich durch eine VPN-Verbindung, wenn ich darauf angewiesen bin.
 
-9. **Antivirensoftware installieren**
-   - Zuverlässige Antivirensoftware auf dem Gerät installieren und aktivieren.
+- 09 **Antivirensoftware installieren**
+   - **Erfüllt:** Auf meinem Gerät ist eine zuverlässige Antivirensoftware installiert und aktiviert, um es vor Schadsoftware zu schützen.
 
-10. **Software aus vertrauenswürdigen Quellen**
-   - Nur Software aus bekannten und vertrauenswürdigen Quellen installieren (Google Play, Apple App Store).
-   - Bewertungen vor dem Download prüfen, um Malware zu vermeiden.
+- 10 **Software aus vertrauenswürdigen Quellen**
+   - **Erfüllt:** Ich lade nur Apps aus dem Google Play Store herunter und prüfe die Bewertungen und Berechtigungen jeder App, bevor ich sie installiere.
+
+
