@@ -19,4 +19,4 @@ Securden Password Vault bietet eine umfassende Lösung für die sichere Verwaltu
 - **Plattformübergreifend**:  
   - Zugriff über Windows, macOS und Web-Interfaces.  
 
-Nach meiner Auswahl habe ich meine Entscheidung mit meiner Lehrperson besprochen und die Vorteile sowie mögliche Alternativen diskutiert.
+
